@@ -7,3 +7,5 @@ Svaki clan ovog sajta je u mogucnosti da pretrazuje listu buducih i proslih konf
 Plan projekta je sledeci:
 
 ![usee case](./Use_case_dijagram.png)
+
+Website ce bit programiran u JavaScript, dok ce ya bazu podataka biti koriscen MySQL.
