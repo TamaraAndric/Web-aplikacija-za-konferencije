@@ -6,4 +6,4 @@ Svaki clan ovog sajta je u mogucnosti da pretrazuje listu buducih i proslih konf
 
 Plan projekta je sledeci:
 
-![usee case](./Use case dijagram.png)
+![usee case](./Use_case_dijagram.png)
