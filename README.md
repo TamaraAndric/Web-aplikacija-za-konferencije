@@ -10,7 +10,7 @@ Plan projekta je sledeci:
 
 Website ce biti programiran u JavaScript, HTML, CSS, dok ce za bazu podataka biti koriscen MySQL.
 
-# Potrebas softver
+# Potreban softver
 
 1. [XAMP](https://www.apachefriends.org/download.html) treba biti instsaliran da bi mogli pokrenuti stranicu na nasem racunaru bez potrebe interneta.
 2. U XAMP folderu gde ste ga sacuvali, kopirajte vase web fajlove u **htdocs** folder.
